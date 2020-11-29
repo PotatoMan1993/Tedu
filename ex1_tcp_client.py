@@ -2,6 +2,8 @@
 tcp客户端
 """
 
+print("github 修改内容")
+
 from socket import *
 
 ADDR = ("127.0.0.1", 8888)
